@@ -1,0 +1,305 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide5.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide611
+
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = Decisions
+shape.Name=Freeform 7; CodeName=Freeform_7; Type=5; Visible = True; LineVisible = True; Text = Do you want to continue within the Microsoft Tech Stack?
+shape.Name=Freeform 8; CodeName=Freeform_8; Type=5; Visible = True; LineVisible = True; Text = What is the Current State of Your Applications, Your Team, and Your Direction?
+shape.Name=Freeform 9; CodeName=Freeform_9; Type=5; Visible = True; LineVisible = True; Text = Do you need to 'convert' or can you take a 'hybrid' or iterative approach?
+shape.Name=Freeform 11; CodeName=Freeform_11; Type=5; Visible = True; LineVisible = True; Text = What Tools, Libraries, Component Suites, and Existing Platforms to use?
+shape.Name=Freeform 12; CodeName=Freeform_12; Type=5; Visible = True; LineVisible = True; Text = What Patterns and Practices should you consider?
+shape.Name=Freeform 13; CodeName=Freeform_13; Type=5; Visible = True; LineVisible = True; Text = How should you 'think' when implementing Blazor?
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = Decisions
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide5; CodeName=Slide5; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Set ID: BottomRectangle
+Set ID: TopRectangle
+Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
+Skipped Layout Shape: ContentPlaceholder - it is a Placeholder
+Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
+Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
+Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Set ID: rect1
+Held Shape: rect2 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect2
+Set ID: rect2
+Held Shape: rect3 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect3
+Set ID: rect3
+Held Shape: rect4 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect4
+Set ID: rect4
+Held Shape: rect5 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect5
+Set ID: rect5
+Held Shape: rect6 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect6
+Set ID: rect6
+Set ID: imgLinkedIn
+Set ID: imgGitHub
+Set ID: imgSessionize
+Set ID: imgYouTube
+Set ID: imgMultimodalSlides
+Set ID: rectMultimodalSlides
+Held Shape: rectEmail - Rule 1.1 - Shape contains Link
+    shapeText_NoSpaces              = John@JohnBaluka.com
+    elementText_NoSpaces            = John@JohnBaluka.com
+Set ID: rectEmail
+Set ID: rectEmail
+Set ID: Picture_14
+Set ID: imgJohnBaluka
+Set ID: TitlePlaceholder
+Held Shape: Freeform_7 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_7
+Held Shape: Freeform_7 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = DoyouwanttocontinuewithintheMicrosoftTechStack?
+    elementText_NoSpaces = Doyouwantto
+Set ID: Freeform_7
+Held Shape: Freeform_7 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = DoyouwanttocontinuewithintheMicrosoftTechStack?
+    elementText_NoSpaces = Doyouwanttocontinue
+Set ID: Freeform_7
+Held Shape: Freeform_7 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = DoyouwanttocontinuewithintheMicrosoftTechStack?
+    elementText_NoSpaces = Doyouwanttocontinuewithinthe
+Set ID: Freeform_7
+Held Shape: Freeform_7 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = DoyouwanttocontinuewithintheMicrosoftTechStack?
+    elementText_NoSpaces = DoyouwanttocontinuewithintheMicrosoftTechStack
+Set ID: Freeform_7
+Set ID: Freeform_7
+Held Shape: Freeform_8 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_8
+Held Shape: Freeform_8 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatistheCurrentStateofYourApplications,YourTeam,andYourDirection?
+    elementText_NoSpaces = Whatisthe
+Set ID: Freeform_8
+Held Shape: Freeform_8 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatistheCurrentStateofYourApplications,YourTeam,andYourDirection?
+    elementText_NoSpaces = WhatistheCurrentState
+Set ID: Freeform_8
+Set ID: Freeform_8
+Held Shape: Freeform_9 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_9
+Held Shape: Freeform_9 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Doyouneedto'convert'orcanyoutakea'hybrid'oriterativeapproach?
+    elementText_NoSpaces = Doyouneedto
+Set ID: Freeform_9
+Held Shape: Freeform_9 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Doyouneedto'convert'orcanyoutakea'hybrid'oriterativeapproach?
+    elementText_NoSpaces = Doyouneedto'convert
+Set ID: Freeform_9
+Held Shape: Freeform_9 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Doyouneedto'convert'orcanyoutakea'hybrid'oriterativeapproach?
+    elementText_NoSpaces = Doyouneedto'convert'
+Set ID: Freeform_9
+Held Shape: Freeform_9 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Doyouneedto'convert'orcanyoutakea'hybrid'oriterativeapproach?
+    elementText_NoSpaces = Doyouneedto'convert'orcanyoutakea
+Set ID: Freeform_9
+Held Shape: Freeform_9 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Doyouneedto'convert'orcanyoutakea'hybrid'oriterativeapproach?
+    elementText_NoSpaces = Doyouneedto'convert'orcanyoutakea'hybrid'
+Set ID: Freeform_9
+Set ID: Freeform_9
+Held Shape: Freeform_11 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_11
+Held Shape: Freeform_11 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatTools,Libraries,ComponentSuites,andExistingPlatformstouse?
+    elementText_NoSpaces = WhatTools,Libraries,
+Set ID: Freeform_11
+Held Shape: Freeform_11 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatTools,Libraries,ComponentSuites,andExistingPlatformstouse?
+    elementText_NoSpaces = WhatTools,Libraries,ComponentSuites
+Set ID: Freeform_11
+Held Shape: Freeform_11 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatTools,Libraries,ComponentSuites,andExistingPlatformstouse?
+    elementText_NoSpaces = WhatTools,Libraries,ComponentSuites,and
+Set ID: Freeform_11
+Held Shape: Freeform_11 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatTools,Libraries,ComponentSuites,andExistingPlatformstouse?
+    elementText_NoSpaces = WhatTools,Libraries,ComponentSuites,andExistingPlatforms
+Set ID: Freeform_11
+Set ID: Freeform_11
+Held Shape: Freeform_12 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatPatternsandPracticesshouldyouconsider?
+    elementText_NoSpaces = What
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WhatPatternsandPracticesshouldyouconsider?
+    elementText_NoSpaces = WhatPatternsandPractices
+Set ID: Freeform_12
+Set ID: Freeform_12
+Held Shape: Freeform_13 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_13
+Held Shape: Freeform_13 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Howshouldyou'think'whenimplementingBlazor?
+    elementText_NoSpaces = Howshouldyou
+Set ID: Freeform_13
+Held Shape: Freeform_13 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = Howshouldyou'think'whenimplementingBlazor?
+    elementText_NoSpaces = Howshouldyou'think'
+Set ID: Freeform_13
+Set ID: Freeform_13
+Set ID: SectionNameTextPlaceholder
+Skipped Shape: ReferenceTextPlaceholder - IsUsedIfPlaceHolder == false
+Set ID: rectHighlight
+Set ID: Slide5
+Success = True
+
+======================================
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID=gSlide--slide5 : url(#clip0)
+  - Svg.SvgRectangle : ID=rectSlide--slide5--0
+  - Svg.SvgRectangle : ID=BottomRectangle--slide5--1
+  - Svg.SvgRectangle : ID=TopRectangle--slide5--2
+  - Svg.SvgPath : ID=rect1--slide5--3
+  - Svg.SvgPath : ID=rect2--slide5--4
+  - Compare : ID=rect2--slide5--5
+  - Svg.SvgPath : ID=rect3--slide5--6
+  - Full Stack : ID=rect3--slide5--7
+  - Svg.SvgPath : ID=rect4--slide5--8
+  - Mindset : ID=rect4--slide5--9
+  - Svg.SvgPath : ID=rect5--slide5--10
+  - Decisions : ID=rect5--slide5--11
+  - Svg.SvgPath : ID=rect6--slide5--12
+  - Options : ID=rect6--slide5--13
+  - Svg.SvgGroup : ID=imgLinkedIn--slide5--14 : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgGitHub--slide5--15 : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgSessionize--slide5--16 : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgYouTube--slide5--17 : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgMultimodalSlides--slide5--18 : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=rectMultimodalSlides--slide5--19
+  - John@JohnBaluka.com : ID=rectEmail--slide5--20
+  - Svg.SvgPath : ID=rectEmail--slide5--21
+  - Svg.SvgGroup : ID=Picture_14--slide5--22 : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgJohnBaluka--slide5--23 : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Decisions : ID=TitlePlaceholder--slide5--24
+  - Svg.SvgPath : ID=Freeform_7--slide5--25
+  - Do you want to : ID=Freeform_7--slide5--26
+  - continue : ID=Freeform_7--slide5--27
+  - within the : ID=Freeform_7--slide5--28
+  - Microsoft Tech Stack : ID=Freeform_7--slide5--29
+  - ? : ID=Freeform_7--slide5--30
+  - Svg.SvgPath : ID=Freeform_8--slide5--31
+  - What is the : ID=Freeform_8--slide5--32
+  - Current State : ID=Freeform_8--slide5--33
+  - of Your Applications, Your Team, and Your Direction? : ID=Freeform_8--slide5--34
+  - Svg.SvgPath : ID=Freeform_9--slide5--35
+  - Do you need to : ID=Freeform_9--slide5--36
+  - 'convert : ID=Freeform_9--slide5--37
+  - ' : ID=Freeform_9--slide5--38
+  - or can you take a : ID=Freeform_9--slide5--39
+  - 'hybrid' : ID=Freeform_9--slide5--40
+  - or iterative approach? : ID=Freeform_9--slide5--41
+  - Svg.SvgPath : ID=Freeform_11--slide5--42
+  - What Tools, Libraries, : ID=Freeform_11--slide5--43
+  - Component Suites : ID=Freeform_11--slide5--44
+  - , and : ID=Freeform_11--slide5--45
+  - Existing Platforms : ID=Freeform_11--slide5--46
+  - to use? : ID=Freeform_11--slide5--47
+  - Svg.SvgPath : ID=Freeform_12--slide5--48
+  - What : ID=Freeform_12--slide5--49
+  - Patterns and Practices : ID=Freeform_12--slide5--50
+  - should you consider? : ID=Freeform_12--slide5--51
+  - Svg.SvgPath : ID=Freeform_13--slide5--52
+  - How should you : ID=Freeform_13--slide5--53
+  - 'think' : ID=Freeform_13--slide5--54
+  - when implementing Blazor? : ID=Freeform_13--slide5--55
+  - Decisions : ID=SectionNameTextPlaceholder--slide5--56
+  - Svg.SvgPath : ID=rectHighlight--slide5--57
+  - Svg.SvgGroup : ID=Slide5--slide5--58 : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=

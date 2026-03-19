@@ -1,0 +1,265 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide3.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide609
+
+shape.Name=Blazor_Server2; CodeName=Blazor_Server2; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Blazor_Server; CodeName=Blazor_Server; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = FullStack
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = False; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = FullStack
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 15; CodeName=Rounded_Rectangle_15; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rectServer; CodeName=rectServer; Type=1; Visible = True; LineVisible = True; Text = Server
+shape.Name=!!Blazor; CodeName=__Blazor; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=!!rectBlazor; CodeName=__rectBlazor; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 34; CodeName=Rounded_Rectangle_34; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rectClient; CodeName=rectClient; Type=1; Visible = True; LineVisible = True; Text = Client
+shape.Name=rectWasm; CodeName=rectWasm; Type=1; Visible = True; LineVisible = True; Text = Interactive with Web Assembly (WASM)
+shape.Name=rectServer2; CodeName=rectServer2; Type=1; Visible = True; LineVisible = True; Text = Server
+shape.Name=rectInteractive; CodeName=rectInteractive; Type=1; Visible = True; LineVisible = True; Text = Interactive with SignalR
+shape.Name=rectNotInteractive; CodeName=rectNotInteractive; Type=1; Visible = True; LineVisible = True; Text = NOT Interactive
+shape.Name=Rounded Rectangle 47; CodeName=Rounded_Rectangle_47; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rectReleased; CodeName=rectReleased; Type=1; Visible = True; LineVisible = True; Text = Released in .NET 8
+shape.Name=rectDefaultSetting; CodeName=rectDefaultSetting; Type=1; Visible = True; LineVisible = True; Text = Default Setting
+shape.Name=Rounded Rectangle 60; CodeName=Rounded_Rectangle_60; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Picture 20; CodeName=Picture_20; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 62; CodeName=Rounded_Rectangle_62; Type=1; Visible = True; LineVisible = True; Text = Including JavaScript expected
+shape.Name=Picture 22; CodeName=Picture_22; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 26; CodeName=Picture_26; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rectangle 65; CodeName=Rectangle_65; Type=1; Visible = True; LineVisible = False; Text = Angular
+shape.Name=rectAutoMode; CodeName=rectAutoMode; Type=1; Visible = True; LineVisible = True; Text = Optional “Auto” mode – Released in .NET 8
+shape.Name=Rounded Rectangle 69; CodeName=Rounded_Rectangle_69; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 71; CodeName=Straight_Arrow_Connector_71; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 70; CodeName=Rounded_Rectangle_70; Type=1; Visible = True; LineVisible = True; Text = Similar
+shape.Name=Picture 2; CodeName=Picture_2; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 76; CodeName=Rounded_Rectangle_76; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rectangle 77; CodeName=Rectangle_77; Type=1; Visible = True; LineVisible = False; Text = Web Forms
+shape.Name=Picture 6_DUP2; CodeName=Picture_6_DUP2; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rectangle 79; CodeName=Rectangle_79; Type=1; Visible = True; LineVisible = False; Text = MVC
+shape.Name=Text3; CodeName=Text3; Type=1; Visible = True; LineVisible = True; Text = Provides Architectural Options
+shape.Name=Text2; CodeName=Text2; Type=1; Visible = True; LineVisible = True; Text = More Focus on Business Problems
+shape.Name=Text1; CodeName=Text1; Type=1; Visible = True; LineVisible = True; Text = Central to a True Full Stack Solution
+shape.Name=Slide3; CodeName=Slide3; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip25
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip26
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip27
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip28
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img29
+  - Svg.SvgClipPath : ID=clip30
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip31
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img32
+  - Svg.SvgClipPath : ID=clip33
+    - Svg.SvgPath : ID=
+  - Svg.SvgImage : ID=img34
+  - Svg.SvgClipPath : ID=clip35
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip36
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img37
+  - Svg.SvgClipPath : ID=clip38
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip39
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img40
+  - Svg.SvgClipPath : ID=clip41
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip42
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img43
+  - Svg.SvgClipPath : ID=clip44
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Compare : ID=
+  - Svg.SvgPath : ID=
+  - Full Stack : ID=
+  - Svg.SvgPath : ID=
+  - Mindset : ID=
+  - Svg.SvgPath : ID=
+  - Decisions : ID=
+  - Svg.SvgPath : ID=
+  - Options : ID=
+  - Svg.SvgGroup : ID= : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=
+  - John@JohnBaluka.com : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip25)
+    - Svg.SvgGroup : ID= : url(#clip26)
+      - Svg.SvgUse : ID=
+  - FullStack : ID=
+  - FullStack : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Server : ID=
+  - Svg.SvgGroup : ID= : 
+    - Svg.SvgGroup : ID= : url(#clip27)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Client : ID=
+  - Svg.SvgPath : ID=
+  - Interactive with Web Assembly (WASM) : ID=
+  - Svg.SvgPath : ID=
+  - Server : ID=
+  - Svg.SvgPath : ID=
+  - Interactive with : ID=
+  - SignalR : ID=
+  - Svg.SvgPath : ID=
+  - NOT Interactive : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Released in .NET 8 : ID=
+  - Svg.SvgPath : ID=
+  - Default Setting : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip28)
+    - Svg.SvgGroup : ID= : url(#clip30)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Including JavaScript expected : ID=
+  - Svg.SvgGroup : ID= : url(#clip31)
+    - Svg.SvgGroup : ID= : url(#clip33)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : 
+    - Svg.SvgGroup : ID= : url(#clip35)
+      - Svg.SvgUse : ID=
+  - Angular : ID=
+  - Svg.SvgPath : ID=
+  - Optional “Auto” mode : ID=
+  - – : ID=
+  - Released in .NET 8 : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Similar : ID=
+  - Svg.SvgGroup : ID= : url(#clip36)
+    - Svg.SvgGroup : ID= : url(#clip38)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgRectangle : ID=
+  - Web Forms : ID=
+  - Svg.SvgGroup : ID= : url(#clip39)
+    - Svg.SvgGroup : ID= : url(#clip41)
+      - Svg.SvgUse : ID=
+  - Svg.SvgRectangle : ID=
+  - MVC : ID=
+  - Svg.SvgPath : ID=
+  - Provides Architectural Options : ID=
+  - Svg.SvgPath : ID=
+  - More Focus on Business Problems : ID=
+  - Svg.SvgPath : ID=
+  - Central to a True Full Stack Solution : ID=
+  - Svg.SvgGroup : ID= : url(#clip42)
+    - Svg.SvgGroup : ID= : url(#clip44)
+      - Svg.SvgUse : ID=

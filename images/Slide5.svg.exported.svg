@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="447675" height="466725" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="90" height="135" xlink:href="images/Slide5--img2.png" id="img2" />
+    <clipPath id="clip3">
+      <rect x="0" y="99000.6" width="447370" height="466725" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="9.31323E-10" y="-9.31323E-10" width="457200" height="457200" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="150" height="88" xlink:href="images/Slide5--img5.png" id="img5" />
+    <clipPath id="clip6">
+      <path d="M156002 0 L613202 0 L613202 452447 L156002 452447 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="9.31323E-10" y="-9.31323E-10" width="447675" height="447675" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="72" height="72" xlink:href="images/Slide5--img8.png" id="img8" />
+    <clipPath id="clip9">
+      <rect x="-0.5" y="0" width="447675" height="447675" />
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="0" width="533400" height="409575" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="115" height="115" xlink:href="images/Slide5--img11.png" id="img11" />
+    <clipPath id="clip12">
+      <path d="M45634.9 106494 L579035 106494 L579035 514487 L45634.9 514487 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip13">
+      <rect x="0" y="-9.31323E-10" width="1276350" height="419100" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="140" height="63" xlink:href="images/Slide5--img14.png" id="img14" />
+    <clipPath id="clip15">
+      <rect x="0" y="17356.8" width="1241743" height="419100" />
+    </clipPath>
+    <clipPath id="clip16">
+      <rect x="-1.45519E-11" y="0" width="1828800" height="495300" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="357" height="129" xlink:href="images/Slide5--img17.png" id="img17" />
+    <clipPath id="clip18">
+      <path d="M76763.9 108465 L1905564 108465 L1905564 603528 L76763.9 603528 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip19">
+      <rect x="0" y="-9.31323E-10" width="1504950" height="485775" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="247" height="72" xlink:href="images/Slide5--img20.png" id="img20" />
+    <clipPath id="clip21">
+      <path d="M39188.8 3879.4 L1532296 3879.4 L1532296 456938 L39188.8 456938 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip22">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide5--img23.png" id="img23" />
+    <clipPath id="clip24">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide5">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide5--0" style="fill:white;" />
+    <rect x="0" y="660" width="1280" height="60" id="BottomRectangle--slide5--1" style="fill:#8064A2;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--slide5--2" style="fill:#8064A2;" />
+    <path d="M5.50005 13.8335 C5.50005 8.12651 10.1265 3.50005 15.8335 3.50005 L202.167 3.50005 C207.874 3.50005 212.5 8.12651 212.5 13.8335 L212.5 55.1666 C212.5 60.8736 207.874 65.5001 202.167 65.5001 L15.8335 65.5001 C10.1265 65.5001 5.50005 60.8736 5.50005 55.1666 Z" id="rect1--slide5--3" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <path d="M218.5 13.8336 C218.5 8.12656 223.127 3.50005 228.834 3.50005 L414.166 3.50005 C419.874 3.50005 424.5 8.12656 424.5 13.8336 L424.5 55.1665 C424.5 60.8735 419.874 65.5 414.166 65.5 L228.834 65.5 C223.127 65.5 218.5 60.8735 218.5 55.1665 Z" id="rect2--slide5--4" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <text transform="translate(240.953, 48)" id="rect2--slide5--5" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Compare</text>
+    <path d="M431.5 13.8336 C431.5 8.12656 436.127 3.50005 441.834 3.50005 L627.167 3.50005 C632.874 3.50005 637.5 8.12656 637.5 13.8336 L637.5 55.1665 C637.5 60.8735 632.874 65.5 627.167 65.5 L441.834 65.5 C436.127 65.5 431.5 60.8735 431.5 55.1665 Z" id="rect3--slide5--6" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <text transform="translate(450.382, 48)" id="rect3--slide5--7" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Full Stack</text>
+    <path d="M644.5 13.8336 C644.5 8.12656 649.127 3.50005 654.834 3.50005 L840.167 3.50005 C845.874 3.50005 850.5 8.12656 850.5 13.8336 L850.5 55.1665 C850.5 60.8735 845.874 65.5 840.167 65.5 L654.834 65.5 C649.127 65.5 644.5 60.8735 644.5 55.1665 Z" id="rect4--slide5--8" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <text transform="translate(673.444, 48)" id="rect4--slide5--9" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Mindset</text>
+    <path d="M856.5 13.8335 C856.5 8.12651 861.127 3.50005 866.834 3.50005 L1053.17 3.50005 C1058.87 3.50005 1063.5 8.12651 1063.5 13.8335 L1063.5 55.1666 C1063.5 60.8736 1058.87 65.5001 1053.17 65.5001 L866.834 65.5001 C861.127 65.5001 856.5 60.8736 856.5 55.1666 Z" id="rect5--slide5--10" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <text transform="translate(876.007, 48)" id="rect5--slide5--11" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Decisions</text>
+    <path d="M1069.5 13.8336 C1069.5 8.12656 1074.13 3.50005 1079.83 3.50005 L1265.17 3.50005 C1270.87 3.50005 1275.5 8.12656 1275.5 13.8336 L1275.5 55.1665 C1275.5 60.8735 1270.87 65.5 1265.17 65.5 L1079.83 65.5 C1074.13 65.5 1069.5 60.8735 1069.5 55.1665 Z" id="rect6--slide5--12" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    <text transform="translate(1102.47, 48)" id="rect6--slide5--13" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
+    <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 587, 665)" id="imgLinkedIn--slide5--14">
+      <g clip-path="url(#clip3)" transform="matrix(1.00068, 0, 0, 1, 0, -99000.9)">
+        <use xlink:href="#img2" width="100%" height="100%" transform="scale(4970.77)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 648, 666)" id="imgGitHub--slide5--15">
+      <g clip-path="url(#clip6)" transform="matrix(1, 0, 0, 1.01051, -156002, 0)">
+        <use xlink:href="#img5" width="100%" height="100%" transform="scale(5141.44)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip7)" transform="matrix(0.000104987, 0, 0, 0.000104987, 708, 666)" id="imgSessionize--slide5--16">
+      <g clip-path="url(#clip9)">
+        <use xlink:href="#img8" width="100%" height="100%" transform="matrix(6217.71, 0, 0, 6217.71, -0.5, 0)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip10)" transform="matrix(0.000104987, 0, 0, 0.000104987, 520, 669)" id="imgYouTube--slide5--17">
+      <g clip-path="url(#clip12)" transform="matrix(1, 0, 0, 1.00388, -45635.5, -106907)">
+        <use xlink:href="#img11" width="100%" height="100%" transform="scale(5427.79)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip13)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1132, 666)" id="imgMultimodalSlides--slide5--18">
+      <g clip-path="url(#clip15)" transform="matrix(1.02787, 0, 0, 1, -1, -17356.5)">
+        <use xlink:href="#img14" width="100%" height="100%" transform="scale(9279.37)" />
+      </g>
+    </g>
+    <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide5--19" font-family="Carlito,sans-serif" font-size="21" font-weight="700" style="fill:white;">Created with</text>
+    <text transform="translate(14.7744, 698)" id="rectEmail--slide5--20" font-family="Carlito,sans-serif" font-size="24" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
+    <path d="M14.7744 701.333 L71.0244 701.333 L127.274 701.333 L183.524 701.333 L239.774 701.333 L239.774 703.333 L183.524 703.333 L127.274 703.333 L71.0244 703.333 L14.7744 703.333 Z" id="rectEmail--slide5--21" fill-rule="evenodd" style="fill:white;" />
+    <g clip-path="url(#clip16)" transform="matrix(0.000104987, 0, 0, 0.000104987, 12, 7)" id="Picture_14--slide5--22">
+      <g clip-path="url(#clip18)" transform="matrix(1, 0, 0, 1.00048, -76763.9, -108517)">
+        <use xlink:href="#img17" width="100%" height="100%" transform="scale(5541.88)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip19)" transform="matrix(0.000104987, 0, 0, 0.000104987, 316, 666)" id="imgJohnBaluka--slide5--23">
+      <g clip-path="url(#clip21)" transform="matrix(1.00793, 0, 0, 1, -39499.6, -3879.41)">
+        <use xlink:href="#img20" width="100%" height="100%" transform="scale(6346.36)" />
+      </g>
+    </g>
+    <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide5--24" font-family="Carlito,sans-serif" font-size="39" font-weight="300">Decisions</text>
+    <path d="M7.50005 136.667 C7.50005 129.947 12.9473 124.5 19.6668 124.5 L1260.33 124.5 C1267.05 124.5 1272.5 129.947 1272.5 136.667 L1272.5 185.333 C1272.5 192.053 1267.05 197.5 1260.33 197.5 L19.6668 197.5 C12.9473 197.5 7.50005 192.053 7.50005 185.333 L7.50005 136.667 Z" id="Freeform_7--slide5--25" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 172)" id="Freeform_7--slide5--26" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Do you want to</text>
+    <text transform="translate(270.159, 172)" id="Freeform_7--slide5--27" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="1" style="fill:white;">continue</text>
+    <text transform="translate(419.613, 172)" id="Freeform_7--slide5--28" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">within the</text>
+    <text transform="translate(588.446, 172)" id="Freeform_7--slide5--29" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="1" style="fill:white;">Microsoft Tech Stack</text>
+    <text transform="translate(918.419, 172)" id="Freeform_7--slide5--30" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">?</text>
+    <path d="M7.50005 218.667 C7.50005 211.947 12.9473 206.5 19.6668 206.5 L1260.33 206.5 C1267.05 206.5 1272.5 211.947 1272.5 218.667 L1272.5 267.333 C1272.5 274.053 1267.05 279.5 1260.33 279.5 L19.6668 279.5 C12.9473 279.5 7.50005 274.053 7.50005 267.333 L7.50005 218.667 Z" id="Freeform_8--slide5--31" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 254)" id="Freeform_8--slide5--32" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">What is the</text>
+    <text transform="translate(210.259, 254)" id="Freeform_8--slide5--33" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="2" style="fill:white;">Current State</text>
+    <text transform="translate(431.253, 254)" id="Freeform_8--slide5--34" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">of Your Applications, Your Team, and Your Direction?</text>
+    <path d="M7.50005 300.667 C7.50005 293.947 12.9473 288.5 19.6668 288.5 L1260.33 288.5 C1267.05 288.5 1272.5 293.947 1272.5 300.667 L1272.5 349.333 C1272.5 356.053 1267.05 361.5 1260.33 361.5 L19.6668 361.5 C12.9473 361.5 7.50005 356.053 7.50005 349.333 L7.50005 300.667 Z" id="Freeform_9--slide5--35" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 335)" id="Freeform_9--slide5--36" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Do you need to</text>
+    <text transform="translate(270.453, 335)" id="Freeform_9--slide5--37" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="3" style="fill:white;">'convert</text>
+    <text transform="translate(400.859, 335)" id="Freeform_9--slide5--38" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="3" style="fill:white;">'</text>
+    <text transform="translate(418.526, 335)" id="Freeform_9--slide5--39" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">or can you take a</text>
+    <text transform="translate(693.199, 335)" id="Freeform_9--slide5--40" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="3" style="fill:white;">'hybrid'</text>
+    <text transform="translate(822.666, 335)" id="Freeform_9--slide5--41" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">or iterative approach?</text>
+    <path d="M7.50005 381.667 C7.50005 374.947 12.9473 369.5 19.6668 369.5 L1260.33 369.5 C1267.05 369.5 1272.5 374.947 1272.5 381.667 L1272.5 430.333 C1272.5 437.053 1267.05 442.5 1260.33 442.5 L19.6668 442.5 C12.9473 442.5 7.50005 437.053 7.50005 430.333 L7.50005 381.667 Z" id="Freeform_11--slide5--42" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 417)" id="Freeform_11--slide5--43" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">What Tools, Libraries,</text>
+    <text transform="translate(366.533, 417)" id="Freeform_11--slide5--44" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="4" style="fill:white;">Component Suites</text>
+    <text transform="translate(659.699, 417)" id="Freeform_11--slide5--45" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">, and</text>
+    <text transform="translate(745.866, 417)" id="Freeform_11--slide5--46" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="4" style="fill:white;">Existing Platforms</text>
+    <text transform="translate(1041.49, 417)" id="Freeform_11--slide5--47" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">to use?</text>
+    <path d="M7.50005 463.667 C7.50005 456.947 12.9473 451.5 19.6668 451.5 L1260.33 451.5 C1267.05 451.5 1272.5 456.947 1272.5 463.667 L1272.5 512.333 C1272.5 519.053 1267.05 524.5 1260.33 524.5 L19.6668 524.5 C12.9473 524.5 7.50005 519.053 7.50005 512.333 L7.50005 463.667 Z" id="Freeform_12--slide5--48" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="5" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 499)" id="Freeform_12--slide5--49" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="5" style="fill:white;">What</text>
+    <text transform="translate(116.426, 499)" id="Freeform_12--slide5--50" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="5" style="fill:white;">Patterns and Practices</text>
+    <text transform="translate(479.206, 499)" id="Freeform_12--slide5--51" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="5" style="fill:white;">should you consider?</text>
+    <path d="M7.50005 545.667 C7.50005 538.947 12.9473 533.5 19.6668 533.5 L1260.33 533.5 C1267.05 533.5 1272.5 538.947 1272.5 545.667 L1272.5 594.333 C1272.5 601.053 1267.05 606.5 1260.33 606.5 L19.6668 606.5 C12.9473 606.5 7.50005 601.053 7.50005 594.333 L7.50005 545.667 Z" id="Freeform_13--slide5--52" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="6" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(21.9525, 581)" id="Freeform_13--slide5--53" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="6" style="fill:white;">How should you</text>
+    <text transform="translate(283.013, 581)" id="Freeform_13--slide5--54" font-family="Carlito,sans-serif" font-size="39" font-weight="700" class="fragment-off" data-fragment-index="6" style="fill:white;">'think'</text>
+    <text transform="translate(392.346, 581)" id="Freeform_13--slide5--55" font-family="Carlito,sans-serif" font-size="39" font-weight="400" class="fragment-off" data-fragment-index="6" style="fill:white;">when implementing Blazor?</text>
+    <text transform="translate(1188.69, -17)" id="SectionNameTextPlaceholder--slide5--56" font-family="Carlito,sans-serif" font-size="21" font-weight="400">Decisions</text>
+    <path d="M856 13.3336 C856 7.62651 860.626 3 866.334 3 L1051.67 3 C1057.37 3 1062 7.62651 1062 13.3336 L1062 54.6664 C1062 60.3735 1057.37 65 1051.67 65 L866.334 65 C860.626 65 856 60.3735 856 54.6664 Z" id="rectHighlight--slide5--57" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" style="fill:none;stroke:#FFC000;" />
+    <g clip-path="url(#clip22)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide5--slide5--58" style="display:none;">
+      <g clip-path="url(#clip24)">
+        <use xlink:href="#img23" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+  </g>
+</svg>

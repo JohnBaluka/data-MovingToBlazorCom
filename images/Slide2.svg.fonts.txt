@@ -1,0 +1,60 @@
+LINE:     <text transform="translate(240.953, 48)" id="rect2--slide2--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Compare</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(450.382, 48)" id="rect3--slide2--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Full Stack</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(673.444, 48)" id="rect4--slide2--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Mindset</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(876.007, 48)" id="rect5--slide2--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Decisions</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1102.47, 48)" id="rect6--slide2--13" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide2--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="700" style="fill:white;">Created with</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(14.7744, 698)" id="rectEmail--slide2--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide2--25" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="39" font-weight="300">Compare</text>
+  OLD VALUE: Calibri Light,Calibri Light_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1191.47, -17)" id="SectionNameTextPlaceholder--slide2--26" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400">Compare</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(458.584, 149)" id="__rectLanguages--slide2--31" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="23" font-weight="400" style="fill:white;">C#</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1036.78, 149)" id="Rounded_Rectangle_31--slide2--37" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="23" font-weight="400" style="fill:white;">JavaScript</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(873.783, 201)" id="Rectangle_34--slide2--40" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#DD0031;">Angular</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(627.396, 170)" id="Rounded_Rectangle_43--slide2--43" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="700" style="fill:white;">VS</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(627.343, 312)" id="Rounded_Rectangle_56--slide2--47" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="700" style="fill:white;">VS</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(377.567, 453)" id="Rounded_Rectangle_61--slide2--51" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Upgrades</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(391.217, 519)" id="Rounded_Rectangle_67--slide2--55" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Rewrite</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(410.837, 585)" id="Rounded_Rectangle_68--slide2--57" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Scale</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(733.257, 453)" id="Rounded_Rectangle_71--slide2--59" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Open Source</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(742.233, 519)" id="Rounded_Rectangle_72--slide2--61" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Community</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(697.413, 585)" id="Rounded_Rectangle_73--slide2--63" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Best for the Team</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif

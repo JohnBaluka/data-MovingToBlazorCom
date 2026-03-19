@@ -1,0 +1,117 @@
+LINE:     <text transform="translate(240.953, 48)" id="rect2--slide6--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Compare</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(450.382, 48)" id="rect3--slide6--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Full Stack</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(673.444, 48)" id="rect4--slide6--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Mindset</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(876.007, 48)" id="rect5--slide6--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Decisions</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1102.47, 48)" id="rect6--slide6--13" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide6--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="700" style="fill:white;">Created with</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(14.7744, 698)" id="rectEmail--slide6--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide6--24" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="39" font-weight="300">Options</text>
+  OLD VALUE: Calibri Light,Calibri Light_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(1202.28, -17)" id="SectionNameTextPlaceholder--slide6--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400">Options</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 143)" id="Freeform_12--slide6--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 143)" id="Freeform_12--slide6--28" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">Work through the Decisions of Moving Forward</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 187)" id="Freeform_12--slide6--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 187)" id="Freeform_12--slide6--30" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">$,$$$</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 231)" id="Freeform_12--slide6--31" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 231)" id="Freeform_12--slide6--32" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">2 Sessions : 1</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(633.268, 231)" id="Freeform_12--slide6--33" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">-</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(643.935, 231)" id="Freeform_12--slide6--34" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">2 hours each</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(96.6961, 194)" id="Freeform_13--slide6--36" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="67" font-weight="400" style="fill:white;">Workshop</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 336)" id="Freeform_14--slide6--38" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 336)" id="Freeform_14--slide6--39" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">Start Moving Forward</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 380)" id="Freeform_14--slide6--40" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 380)" id="Freeform_14--slide6--41" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">$$,$$$</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(423.268, 424)" id="Freeform_14--slide6--42" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(447.268, 424)" id="Freeform_14--slide6--43" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">4</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(464.768, 424)" id="Freeform_14--slide6--44" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">-</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(475.435, 424)" id="Freeform_14--slide6--45" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">12 weeks</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(122.736, 390)" id="Freeform_15--slide6--47" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="80" font-weight="400" style="fill:white;">Cohort</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(424.238, 528)" id="Freeform_16--slide6--49" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(448.238, 528)" id="Freeform_16--slide6--50" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">I’ll help make your project a success</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(424.238, 572)" id="Freeform_16--slide6--51" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(448.238, 572)" id="Freeform_16--slide6--52" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">$$$,$$$</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(424.238, 616)" id="Freeform_16--slide6--53" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">•</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(448.238, 616)" id="Freeform_16--slide6--54" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">6</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(465.738, 616)" id="Freeform_16--slide6--55" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">-</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(476.405, 616)" id="Freeform_16--slide6--56" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400">12 months</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(90.1762, 579)" id="Freeform_17--slide6--58" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="65" font-weight="400" style="fill:white;">Implement</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(797.729, 461)" id="Rounded_Rectangle_9--slide6--60" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(846.929, 304)" id="Rounded_Rectangle_10--slide6--63" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">100% Guarantee</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif
+LINE:     <text transform="translate(839.235, 382)" id="Rounded_Rectangle_3--slide6--65" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Free Consultation</text>
+  OLD VALUE: Calibri,Calibri_MSFontService,sans-serif
+  NEW VALUE: Carlito,sans-serif

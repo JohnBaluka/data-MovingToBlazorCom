@@ -1,0 +1,211 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide4.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide612
+
+shape.Name=Left Brace 41; CodeName=Left_Brace_41; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Left Brace 37; CodeName=Left_Brace_37; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = Mindset
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = Mindset
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Content Placeholder 14; CodeName=Content_Placeholder_14; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=!!Blazor; CodeName=__Blazor; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=!!rectBlazor; CodeName=__rectBlazor; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rectCSharp; CodeName=rectCSharp; Type=1; Visible = True; LineVisible = True; Text = C#
+shape.Name=Rounded Rectangle 10; CodeName=Rounded_Rectangle_10; Type=1; Visible = True; LineVisible = True; Text = JavaScript(DOM)
+shape.Name=Graphic 16; CodeName=Graphic_16; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 17; CodeName=Rounded_Rectangle_17; Type=1; Visible = True; LineVisible = True; Text = Web Browser
+shape.Name=Rounded Rectangle 18; CodeName=Rounded_Rectangle_18; Type=1; Visible = True; LineVisible = True; Text = Database Server
+shape.Name=Rounded Rectangle 12; CodeName=Rounded_Rectangle_12; Type=1; Visible = True; LineVisible = True; Text = SQL(Tables, SPs)
+shape.Name=Rounded Rectangle 21; CodeName=Rounded_Rectangle_21; Type=1; Visible = True; LineVisible = True; Text = JS Interop
+shape.Name=Straight Arrow Connector 22; CodeName=Straight_Arrow_Connector_22; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 25; CodeName=Rounded_Rectangle_25; Type=1; Visible = True; LineVisible = True; Text = SQL Command
+shape.Name=Straight Arrow Connector 26; CodeName=Straight_Arrow_Connector_26; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 30; CodeName=Straight_Arrow_Connector_30; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 33; CodeName=Straight_Arrow_Connector_33; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rectangle 36; CodeName=Rectangle_36; Type=1; Visible = True; LineVisible = True; Text = Optimize Performance
+shape.Name=Rectangle 38; CodeName=Rectangle_38; Type=1; Visible = True; LineVisible = True; Text = Business Logic
+shape.Name=Rectangle 39; CodeName=Rectangle_39; Type=1; Visible = True; LineVisible = True; Text = Deployment Options
+shape.Name=Rectangle 40; CodeName=Rectangle_40; Type=1; Visible = True; LineVisible = True; Text = Data Access
+shape.Name=Graphic 43; CodeName=Graphic_43; Type=28; Visible = True; LineVisible = False; Text = 
+shape.Name=Rectangle 44; CodeName=Rectangle_44; Type=1; Visible = True; LineVisible = False; Text = HTML + CSS
+shape.Name=Slide4; CodeName=Slide4; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip25
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img26
+  - Svg.SvgClipPath : ID=clip27
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Compare : ID=
+  - Svg.SvgPath : ID=
+  - Full Stack : ID=
+  - Svg.SvgPath : ID=
+  - Mindset : ID=
+  - Svg.SvgPath : ID=
+  - Decisions : ID=
+  - Svg.SvgPath : ID=
+  - Options : ID=
+  - Svg.SvgGroup : ID= : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=
+  - John@JohnBaluka.com : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Mindset : ID=
+  - Mindset : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - C# : ID=
+  - Svg.SvgPath : ID=
+  - JavaScript : ID=
+  - (DOM) : ID=
+  - Svg.SvgGroup : ID= : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+        - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Web Browser : ID=
+  - Svg.SvgPath : ID=
+  - Database Server : ID=
+  - Svg.SvgPath : ID=
+  - SQL : ID=
+  - (Tables, SPs) : ID=
+  - Svg.SvgPath : ID=
+  - JS Interop : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - SQL Command : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgRectangle : ID=
+  - Optimize Performance : ID=
+  - Svg.SvgRectangle : ID=
+  - Business Logic : ID=
+  - Svg.SvgRectangle : ID=
+  - Deployment Options : ID=
+  - Svg.SvgRectangle : ID=
+  - Data Access : ID=
+  - Svg.SvgGroup : ID= : 
+    - Svg.SvgGroup : ID= : 
+      - Svg.SvgGroup : ID= : 
+        - Svg.SvgPath : ID=
+  - HTML + : ID=
+  - CSS : ID=
+  - Svg.SvgGroup : ID= : url(#clip25)
+    - Svg.SvgGroup : ID= : url(#clip27)
+      - Svg.SvgUse : ID=

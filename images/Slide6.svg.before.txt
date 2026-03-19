@@ -1,0 +1,178 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide6.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide604
+
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = Options
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = Options
+shape.Name=Freeform 12; CodeName=Freeform_12; Type=5; Visible = True; LineVisible = True; Text = Work through the Decisions of Moving Forward$,$$$2 Sessions : 1-2 hours each
+shape.Name=Freeform 13; CodeName=Freeform_13; Type=5; Visible = True; LineVisible = True; Text = Workshop
+shape.Name=Freeform 14; CodeName=Freeform_14; Type=5; Visible = True; LineVisible = True; Text = Start Moving Forward$$,$$$4-12 weeks
+shape.Name=Freeform 15; CodeName=Freeform_15; Type=5; Visible = True; LineVisible = True; Text = Cohort
+shape.Name=Freeform 16; CodeName=Freeform_16; Type=5; Visible = True; LineVisible = True; Text = I’ll help make your project a success$$$,$$$6-12 months
+shape.Name=Freeform 17; CodeName=Freeform_17; Type=5; Visible = True; LineVisible = True; Text = Implement
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 9; CodeName=Rounded_Rectangle_9; Type=1; Visible = True; LineVisible = True; Text = John@JohnBaluka.com
+shape.Name=Rounded Rectangle 10; CodeName=Rounded_Rectangle_10; Type=1; Visible = True; LineVisible = True; Text = 100% Guarantee 
+shape.Name=Rounded Rectangle 3; CodeName=Rounded_Rectangle_3; Type=1; Visible = True; LineVisible = True; Text = Free Consultation
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide6; CodeName=Slide6; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID= : url(#clip0)
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgRectangle : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - Compare : ID=
+  - Svg.SvgPath : ID=
+  - Full Stack : ID=
+  - Svg.SvgPath : ID=
+  - Mindset : ID=
+  - Svg.SvgPath : ID=
+  - Decisions : ID=
+  - Svg.SvgPath : ID=
+  - Options : ID=
+  - Svg.SvgGroup : ID= : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=
+  - John@JohnBaluka.com : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID= : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Options : ID=
+  - Options : ID=
+  - Svg.SvgPath : ID=
+  - • : ID=
+  - Work through the Decisions of Moving Forward : ID=
+  - • : ID=
+  - $,$$$ : ID=
+  - • : ID=
+  - 2 Sessions : 1 : ID=
+  - - : ID=
+  - 2 hours each : ID=
+  - Svg.SvgPath : ID=
+  - Workshop : ID=
+  - Svg.SvgPath : ID=
+  - • : ID=
+  - Start Moving Forward : ID=
+  - • : ID=
+  - $$,$$$ : ID=
+  - • : ID=
+  - 4 : ID=
+  - - : ID=
+  - 12 weeks : ID=
+  - Svg.SvgPath : ID=
+  - Cohort : ID=
+  - Svg.SvgPath : ID=
+  - • : ID=
+  - I’ll help make your project a success : ID=
+  - • : ID=
+  - $$$,$$$ : ID=
+  - • : ID=
+  - 6 : ID=
+  - - : ID=
+  - 12 months : ID=
+  - Svg.SvgPath : ID=
+  - Implement : ID=
+  - Svg.SvgPath : ID=
+  - John@JohnBaluka.com : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgPath : ID=
+  - 100% Guarantee : ID=
+  - Svg.SvgPath : ID=
+  - Free Consultation : ID=
+  - Svg.SvgPath : ID=
+  - Svg.SvgGroup : ID= : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=

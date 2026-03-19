@@ -1,0 +1,338 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide6.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide604
+
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = Options
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = Options
+shape.Name=Freeform 12; CodeName=Freeform_12; Type=5; Visible = True; LineVisible = True; Text = Work through the Decisions of Moving Forward$,$$$2 Sessions : 1-2 hours each
+shape.Name=Freeform 13; CodeName=Freeform_13; Type=5; Visible = True; LineVisible = True; Text = Workshop
+shape.Name=Freeform 14; CodeName=Freeform_14; Type=5; Visible = True; LineVisible = True; Text = Start Moving Forward$$,$$$4-12 weeks
+shape.Name=Freeform 15; CodeName=Freeform_15; Type=5; Visible = True; LineVisible = True; Text = Cohort
+shape.Name=Freeform 16; CodeName=Freeform_16; Type=5; Visible = True; LineVisible = True; Text = I’ll help make your project a success$$$,$$$6-12 months
+shape.Name=Freeform 17; CodeName=Freeform_17; Type=5; Visible = True; LineVisible = True; Text = Implement
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 9; CodeName=Rounded_Rectangle_9; Type=1; Visible = True; LineVisible = True; Text = John@JohnBaluka.com
+shape.Name=Rounded Rectangle 10; CodeName=Rounded_Rectangle_10; Type=1; Visible = True; LineVisible = True; Text = 100% Guarantee 
+shape.Name=Rounded Rectangle 3; CodeName=Rounded_Rectangle_3; Type=1; Visible = True; LineVisible = True; Text = Free Consultation
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide6; CodeName=Slide6; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Set ID: BottomRectangle
+Set ID: TopRectangle
+Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
+Skipped Layout Shape: ContentPlaceholder - it is a Placeholder
+Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
+Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
+Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Set ID: rect1
+Held Shape: rect2 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect2
+Set ID: rect2
+Held Shape: rect3 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect3
+Set ID: rect3
+Held Shape: rect4 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect4
+Set ID: rect4
+Held Shape: rect5 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect5
+Set ID: rect5
+Held Shape: rect6 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect6
+Set ID: rect6
+Set ID: imgLinkedIn
+Set ID: imgGitHub
+Set ID: imgSessionize
+Set ID: imgYouTube
+Set ID: imgMultimodalSlides
+Set ID: rectMultimodalSlides
+Held Shape: rectEmail - Rule 1.1 - Shape contains Link
+    shapeText_NoSpaces              = John@JohnBaluka.com
+    elementText_NoSpaces            = John@JohnBaluka.com
+Set ID: rectEmail
+Set ID: rectEmail
+Set ID: Picture_14
+Set ID: imgJohnBaluka
+Set ID: TitlePlaceholder
+Set ID: SectionNameTextPlaceholder
+Held Shape: Freeform_12 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = 
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward$,$$$
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward$,$$$
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1
+Set ID: Freeform_12
+Held Shape: Freeform_12 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-2hourseach
+    elementText_NoSpaces = WorkthroughtheDecisionsofMovingForward$,$$$2Sessions:1-
+Set ID: Freeform_12
+Set ID: Freeform_12
+Held Shape: Freeform_13 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_13
+Set ID: Freeform_13
+Held Shape: Freeform_14 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = 
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward$$,$$$
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward$$,$$$
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward$$,$$$4
+Set ID: Freeform_14
+Held Shape: Freeform_14 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = StartMovingForward$$,$$$4-12weeks
+    elementText_NoSpaces = StartMovingForward$$,$$$4-
+Set ID: Freeform_14
+Set ID: Freeform_14
+Held Shape: Freeform_15 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_15
+Set ID: Freeform_15
+Held Shape: Freeform_16 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = 
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess$$$,$$$
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess$$$,$$$
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess$$$,$$$6
+Set ID: Freeform_16
+Held Shape: Freeform_16 - Rule 1.2 - shapeText_NoSpaces != elementText_NoSpaces
+    shapeText_NoSpaces   = I’llhelpmakeyourprojectasuccess$$$,$$$6-12months
+    elementText_NoSpaces = I’llhelpmakeyourprojectasuccess$$$,$$$6-
+Set ID: Freeform_16
+Set ID: Freeform_16
+Held Shape: Freeform_17 - Rule 2.3 - msoFreeform contains text
+Set ID: Freeform_17
+Set ID: Freeform_17
+Skipped Shape: ReferenceTextPlaceholder - IsUsedIfPlaceHolder == false
+Held Shape: Rounded_Rectangle_9 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_9
+Held Shape: Rounded_Rectangle_9 - Rule 1.1 - Shape contains Link
+    shapeText_NoSpaces              = John@JohnBaluka.com
+    elementText_NoSpaces            = John@JohnBaluka.com
+Set ID: Rounded_Rectangle_9
+Set ID: Rounded_Rectangle_9
+Held Shape: Rounded_Rectangle_10 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_10
+Set ID: Rounded_Rectangle_10
+Held Shape: Rounded_Rectangle_3 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_3
+Set ID: Rounded_Rectangle_3
+Set ID: rectHighlight
+Set ID: Slide6
+Success = True
+
+======================================
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID=gSlide--slide6 : url(#clip0)
+  - Svg.SvgRectangle : ID=rectSlide--slide6--0
+  - Svg.SvgRectangle : ID=BottomRectangle--slide6--1
+  - Svg.SvgRectangle : ID=TopRectangle--slide6--2
+  - Svg.SvgPath : ID=rect1--slide6--3
+  - Svg.SvgPath : ID=rect2--slide6--4
+  - Compare : ID=rect2--slide6--5
+  - Svg.SvgPath : ID=rect3--slide6--6
+  - Full Stack : ID=rect3--slide6--7
+  - Svg.SvgPath : ID=rect4--slide6--8
+  - Mindset : ID=rect4--slide6--9
+  - Svg.SvgPath : ID=rect5--slide6--10
+  - Decisions : ID=rect5--slide6--11
+  - Svg.SvgPath : ID=rect6--slide6--12
+  - Options : ID=rect6--slide6--13
+  - Svg.SvgGroup : ID=imgLinkedIn--slide6--14 : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgGitHub--slide6--15 : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgSessionize--slide6--16 : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgYouTube--slide6--17 : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgMultimodalSlides--slide6--18 : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=rectMultimodalSlides--slide6--19
+  - John@JohnBaluka.com : ID=rectEmail--slide6--20
+  - Svg.SvgPath : ID=rectEmail--slide6--21
+  - Svg.SvgGroup : ID=Picture_14--slide6--22 : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgJohnBaluka--slide6--23 : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Options : ID=TitlePlaceholder--slide6--24
+  - Options : ID=SectionNameTextPlaceholder--slide6--25
+  - Svg.SvgPath : ID=Freeform_12--slide6--26
+  - • : ID=Freeform_12--slide6--27
+  - Work through the Decisions of Moving Forward : ID=Freeform_12--slide6--28
+  - • : ID=Freeform_12--slide6--29
+  - $,$$$ : ID=Freeform_12--slide6--30
+  - • : ID=Freeform_12--slide6--31
+  - 2 Sessions : 1 : ID=Freeform_12--slide6--32
+  - - : ID=Freeform_12--slide6--33
+  - 2 hours each : ID=Freeform_12--slide6--34
+  - Svg.SvgPath : ID=Freeform_13--slide6--35
+  - Workshop : ID=Freeform_13--slide6--36
+  - Svg.SvgPath : ID=Freeform_14--slide6--37
+  - • : ID=Freeform_14--slide6--38
+  - Start Moving Forward : ID=Freeform_14--slide6--39
+  - • : ID=Freeform_14--slide6--40
+  - $$,$$$ : ID=Freeform_14--slide6--41
+  - • : ID=Freeform_14--slide6--42
+  - 4 : ID=Freeform_14--slide6--43
+  - - : ID=Freeform_14--slide6--44
+  - 12 weeks : ID=Freeform_14--slide6--45
+  - Svg.SvgPath : ID=Freeform_15--slide6--46
+  - Cohort : ID=Freeform_15--slide6--47
+  - Svg.SvgPath : ID=Freeform_16--slide6--48
+  - • : ID=Freeform_16--slide6--49
+  - I’ll help make your project a success : ID=Freeform_16--slide6--50
+  - • : ID=Freeform_16--slide6--51
+  - $$$,$$$ : ID=Freeform_16--slide6--52
+  - • : ID=Freeform_16--slide6--53
+  - 6 : ID=Freeform_16--slide6--54
+  - - : ID=Freeform_16--slide6--55
+  - 12 months : ID=Freeform_16--slide6--56
+  - Svg.SvgPath : ID=Freeform_17--slide6--57
+  - Implement : ID=Freeform_17--slide6--58
+  - Svg.SvgPath : ID=Rounded_Rectangle_9--slide6--59
+  - John@JohnBaluka.com : ID=Rounded_Rectangle_9--slide6--60
+  - Svg.SvgPath : ID=Rounded_Rectangle_9--slide6--61
+  - Svg.SvgPath : ID=Rounded_Rectangle_10--slide6--62
+  - 100% Guarantee : ID=Rounded_Rectangle_10--slide6--63
+  - Svg.SvgPath : ID=Rounded_Rectangle_3--slide6--64
+  - Free Consultation : ID=Rounded_Rectangle_3--slide6--65
+  - Svg.SvgPath : ID=rectHighlight--slide6--66
+  - Svg.SvgGroup : ID=Slide6--slide6--67 : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=

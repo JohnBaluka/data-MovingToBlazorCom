@@ -1,0 +1,379 @@
+**************************************
+C:\Users\JohnF\OneDrive\AgileSlides\d.docs.live.net\7068dd7de4bf55dd\Presentations\JohnBalukaCom\MovingToBlazor.pptx.AgileSlides\images\slides\SVG\Slide2.svg
+
+**************************************
+layoutSlide.Name=Full Content Area - Menu Bar
+
+shape.Name=BottomRectangle; CodeName=BottomRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TopRectangle; CodeName=TopRectangle; Type=1; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Title Here}
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = True; LineVisible = False; Text = First levelSecond levelThird levelFourth levelFifth level
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Section Name Here}
+shape.Name=FooterPlaceholder; CodeName=FooterPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=SlideNumberPlaceholder; CodeName=SlideNumberPlaceholder; Type=14; Visible = True; LineVisible = False; Text = ‹#›
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = {Reference Text Here}
+shape.Name=rect1; CodeName=rect1; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=rect2; CodeName=rect2; Type=1; Visible = True; LineVisible = True; Text = Compare
+shape.Name=rect3; CodeName=rect3; Type=1; Visible = True; LineVisible = True; Text = Full Stack
+shape.Name=rect4; CodeName=rect4; Type=1; Visible = True; LineVisible = True; Text = Mindset
+shape.Name=rect5; CodeName=rect5; Type=1; Visible = True; LineVisible = True; Text = Decisions
+shape.Name=rect6; CodeName=rect6; Type=1; Visible = True; LineVisible = True; Text = Options
+shape.Name=imgLinkedIn; CodeName=imgLinkedIn; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgGitHub; CodeName=imgGitHub; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgSessionize; CodeName=imgSessionize; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgYouTube; CodeName=imgYouTube; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgMultimodalSlides; CodeName=imgMultimodalSlides; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=rectMultimodalSlides; CodeName=rectMultimodalSlides; Type=1; Visible = True; LineVisible = False; Text = Created with
+shape.Name=rectEmail; CodeName=rectEmail; Type=1; Visible = True; LineVisible = False; Text = John@JohnBaluka.com 
+shape.Name=Picture 14; CodeName=Picture_14; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=imgJohnBaluka; CodeName=imgJohnBaluka; Type=13; Visible = True; LineVisible = False; Text = 
+--------------------------------------
+slide.Name=Slide608
+
+shape.Name=imgMicrosoft; CodeName=imgMicrosoft; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=TitlePlaceholder; CodeName=TitlePlaceholder; Type=14; Visible = True; LineVisible = False; Text = Compare
+shape.Name=ContentPlaceholder; CodeName=ContentPlaceholder; Type=14; Visible = False; LineVisible = False; Text = 
+shape.Name=SectionNameTextPlaceholder; CodeName=SectionNameTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = Compare
+shape.Name=ReferenceTextPlaceholder; CodeName=ReferenceTextPlaceholder; Type=14; Visible = True; LineVisible = False; Text = 
+shape.Name=rectHighlight; CodeName=rectHighlight; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=!!Blazor; CodeName=__Blazor; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 6; CodeName=Rounded_Rectangle_6; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=!!rectLanguages; CodeName=__rectLanguages; Type=1; Visible = True; LineVisible = True; Text = C#
+shape.Name=Straight Arrow Connector 19; CodeName=Straight_Arrow_Connector_19; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 21; CodeName=Straight_Arrow_Connector_21; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 29; CodeName=Rounded_Rectangle_29; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Picture 20; CodeName=Picture_20; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 31; CodeName=Rounded_Rectangle_31; Type=1; Visible = True; LineVisible = True; Text = JavaScript
+shape.Name=Picture 22; CodeName=Picture_22; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 26; CodeName=Picture_26; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rectangle 34; CodeName=Rectangle_34; Type=1; Visible = True; LineVisible = False; Text = Angular
+shape.Name=Picture 32; CodeName=Picture_32; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Rounded Rectangle 43; CodeName=Rounded_Rectangle_43; Type=1; Visible = True; LineVisible = True; Text = VS
+shape.Name=Straight Arrow Connector 52; CodeName=Straight_Arrow_Connector_52; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 53; CodeName=Rounded_Rectangle_53; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 56; CodeName=Rounded_Rectangle_56; Type=1; Visible = True; LineVisible = True; Text = VS
+shape.Name=Straight Arrow Connector 58; CodeName=Straight_Arrow_Connector_58; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 59; CodeName=Rounded_Rectangle_59; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 61; CodeName=Rounded_Rectangle_61; Type=1; Visible = True; LineVisible = True; Text = Upgrades
+shape.Name=Rounded Rectangle 63; CodeName=Rounded_Rectangle_63; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 64; CodeName=Straight_Arrow_Connector_64; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Rounded Rectangle 67; CodeName=Rounded_Rectangle_67; Type=1; Visible = True; LineVisible = True; Text = Rewrite
+shape.Name=Rounded Rectangle 68; CodeName=Rounded_Rectangle_68; Type=1; Visible = True; LineVisible = True; Text = Scale
+shape.Name=Rounded Rectangle 71; CodeName=Rounded_Rectangle_71; Type=1; Visible = True; LineVisible = True; Text = Open Source
+shape.Name=Rounded Rectangle 72; CodeName=Rounded_Rectangle_72; Type=1; Visible = True; LineVisible = True; Text = Community
+shape.Name=Rounded Rectangle 73; CodeName=Rounded_Rectangle_73; Type=1; Visible = True; LineVisible = True; Text = Best for the Team
+shape.Name=Picture 2; CodeName=Picture_2; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 4; CodeName=Picture_4; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 8; CodeName=Picture_8; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 10; CodeName=Picture_10; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Picture 8_DUP2; CodeName=Picture_8_DUP2; Type=13; Visible = True; LineVisible = False; Text = 
+shape.Name=Straight Arrow Connector 91; CodeName=Straight_Arrow_Connector_91; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Straight Arrow Connector 94; CodeName=Straight_Arrow_Connector_94; Type=1; Visible = True; LineVisible = True; Text = 
+shape.Name=Slide2; CodeName=Slide2; Type=16; Visible = True; LineVisible = False; Text = 
+
+======================================
+
+Set ID: BottomRectangle
+Set ID: TopRectangle
+Skipped Layout Shape: TitlePlaceholder - it is a Placeholder
+Skipped Layout Shape: ContentPlaceholder - it is a Placeholder
+Skipped Layout Shape: SectionNameTextPlaceholder - it is a Placeholder
+Skipped Layout Shape: FooterPlaceholder - it is a Placeholder
+Skipped Layout Shape: SlideNumberPlaceholder - it is a Placeholder
+Skipped Layout Shape: ReferenceTextPlaceholder - it is a Placeholder
+Set ID: rect1
+Held Shape: rect2 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect2
+Set ID: rect2
+Held Shape: rect3 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect3
+Set ID: rect3
+Held Shape: rect4 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect4
+Set ID: rect4
+Held Shape: rect5 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect5
+Set ID: rect5
+Held Shape: rect6 - Rule 2.1 - msoAutoShape contains text
+Set ID: rect6
+Set ID: rect6
+Set ID: imgLinkedIn
+Set ID: imgGitHub
+Set ID: imgSessionize
+Set ID: imgYouTube
+Set ID: imgMultimodalSlides
+Set ID: rectMultimodalSlides
+Held Shape: rectEmail - Rule 1.1 - Shape contains Link
+    shapeText_NoSpaces              = John@JohnBaluka.com
+    elementText_NoSpaces            = John@JohnBaluka.com
+Set ID: rectEmail
+Set ID: rectEmail
+Set ID: Picture_14
+Set ID: imgJohnBaluka
+Set ID: imgMicrosoft
+Set ID: TitlePlaceholder
+Skipped Shape: ContentPlaceholder - IsUsedIfPlaceHolder == false
+Set ID: SectionNameTextPlaceholder
+Skipped Shape: ReferenceTextPlaceholder - IsUsedIfPlaceHolder == false
+Set ID: rectHighlight
+Set ID: __Blazor
+Set ID: Rounded_Rectangle_6
+Held Shape: __rectLanguages - Rule 2.1 - msoAutoShape contains text
+Set ID: __rectLanguages
+Set ID: __rectLanguages
+Set ID: Straight_Arrow_Connector_19
+Set ID: Straight_Arrow_Connector_21
+Set ID: Rounded_Rectangle_29
+Set ID: Picture_20
+Held Shape: Rounded_Rectangle_31 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_31
+Set ID: Rounded_Rectangle_31
+Set ID: Picture_22
+Set ID: Picture_26
+Set ID: Rectangle_34
+Set ID: Picture_32
+Held Shape: Rounded_Rectangle_43 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_43
+Set ID: Rounded_Rectangle_43
+Set ID: Straight_Arrow_Connector_52
+Set ID: Rounded_Rectangle_53
+Held Shape: Rounded_Rectangle_56 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_56
+Set ID: Rounded_Rectangle_56
+Set ID: Straight_Arrow_Connector_58
+Set ID: Rounded_Rectangle_59
+Held Shape: Rounded_Rectangle_61 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_61
+Set ID: Rounded_Rectangle_61
+Set ID: Rounded_Rectangle_63
+Set ID: Straight_Arrow_Connector_64
+Held Shape: Rounded_Rectangle_67 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_67
+Set ID: Rounded_Rectangle_67
+Held Shape: Rounded_Rectangle_68 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_68
+Set ID: Rounded_Rectangle_68
+Held Shape: Rounded_Rectangle_71 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_71
+Set ID: Rounded_Rectangle_71
+Held Shape: Rounded_Rectangle_72 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_72
+Set ID: Rounded_Rectangle_72
+Held Shape: Rounded_Rectangle_73 - Rule 2.1 - msoAutoShape contains text
+Set ID: Rounded_Rectangle_73
+Set ID: Rounded_Rectangle_73
+Set ID: Picture_2
+Set ID: Picture_4
+Set ID: Picture_8
+Set ID: Picture_10
+Set ID: Picture_8_DUP2
+Set ID: Straight_Arrow_Connector_91
+Set ID: Straight_Arrow_Connector_94
+Set ID: Slide2
+Success = True
+
+======================================
+Svg.SvgDocument : ID=
+- Svg.SvgDefinitionList : ID=
+  - Svg.SvgClipPath : ID=clip0
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip1
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img2
+  - Svg.SvgClipPath : ID=clip3
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip4
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img5
+  - Svg.SvgClipPath : ID=clip6
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip7
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img8
+  - Svg.SvgClipPath : ID=clip9
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip10
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img11
+  - Svg.SvgClipPath : ID=clip12
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip13
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img14
+  - Svg.SvgClipPath : ID=clip15
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip16
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img17
+  - Svg.SvgClipPath : ID=clip18
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip19
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img20
+  - Svg.SvgClipPath : ID=clip21
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip22
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img23
+  - Svg.SvgClipPath : ID=clip24
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip25
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img26
+  - Svg.SvgClipPath : ID=clip27
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip28
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img29
+  - Svg.SvgClipPath : ID=clip30
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip31
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img32
+  - Svg.SvgClipPath : ID=clip33
+    - Svg.SvgPath : ID=
+  - Svg.SvgClipPath : ID=clip34
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img35
+  - Svg.SvgClipPath : ID=clip36
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img37
+  - Svg.SvgClipPath : ID=clip38
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip39
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img40
+  - Svg.SvgClipPath : ID=clip41
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip42
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img43
+  - Svg.SvgClipPath : ID=clip44
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip45
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img46
+  - Svg.SvgClipPath : ID=clip47
+    - Svg.SvgPath : ID=
+  - Svg.SvgImage : ID=img48
+  - Svg.SvgClipPath : ID=clip49
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img50
+  - Svg.SvgClipPath : ID=clip51
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgClipPath : ID=clip52
+    - Svg.SvgRectangle : ID=
+  - Svg.SvgImage : ID=img53
+  - Svg.SvgClipPath : ID=clip54
+    - Svg.SvgRectangle : ID=
+- Svg.SvgGroup : ID=gSlide--slide2 : url(#clip0)
+  - Svg.SvgRectangle : ID=rectSlide--slide2--0
+  - Svg.SvgRectangle : ID=BottomRectangle--slide2--1
+  - Svg.SvgRectangle : ID=TopRectangle--slide2--2
+  - Svg.SvgPath : ID=rect1--slide2--3
+  - Svg.SvgPath : ID=rect2--slide2--4
+  - Compare : ID=rect2--slide2--5
+  - Svg.SvgPath : ID=rect3--slide2--6
+  - Full Stack : ID=rect3--slide2--7
+  - Svg.SvgPath : ID=rect4--slide2--8
+  - Mindset : ID=rect4--slide2--9
+  - Svg.SvgPath : ID=rect5--slide2--10
+  - Decisions : ID=rect5--slide2--11
+  - Svg.SvgPath : ID=rect6--slide2--12
+  - Options : ID=rect6--slide2--13
+  - Svg.SvgGroup : ID=imgLinkedIn--slide2--14 : url(#clip1)
+    - Svg.SvgGroup : ID= : url(#clip3)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgGitHub--slide2--15 : url(#clip4)
+    - Svg.SvgGroup : ID= : url(#clip6)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgSessionize--slide2--16 : url(#clip7)
+    - Svg.SvgGroup : ID= : url(#clip9)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgYouTube--slide2--17 : url(#clip10)
+    - Svg.SvgGroup : ID= : url(#clip12)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgMultimodalSlides--slide2--18 : url(#clip13)
+    - Svg.SvgGroup : ID= : url(#clip15)
+      - Svg.SvgUse : ID=
+  - Created with : ID=rectMultimodalSlides--slide2--19
+  - John@JohnBaluka.com : ID=rectEmail--slide2--20
+  - Svg.SvgPath : ID=rectEmail--slide2--21
+  - Svg.SvgGroup : ID=Picture_14--slide2--22 : url(#clip16)
+    - Svg.SvgGroup : ID= : url(#clip18)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgJohnBaluka--slide2--23 : url(#clip19)
+    - Svg.SvgGroup : ID= : url(#clip21)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=imgMicrosoft--slide2--24 : url(#clip22)
+    - Svg.SvgGroup : ID= : url(#clip24)
+      - Svg.SvgUse : ID=
+  - Compare : ID=TitlePlaceholder--slide2--25
+  - Compare : ID=SectionNameTextPlaceholder--slide2--26
+  - Svg.SvgPath : ID=rectHighlight--slide2--27
+  - Svg.SvgGroup : ID=__Blazor--slide2--28 : url(#clip25)
+    - Svg.SvgGroup : ID= : url(#clip27)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Rounded_Rectangle_6--slide2--29
+  - Svg.SvgPath : ID=__rectLanguages--slide2--30
+  - C# : ID=__rectLanguages--slide2--31
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_19--slide2--32
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_21--slide2--33
+  - Svg.SvgPath : ID=Rounded_Rectangle_29--slide2--34
+  - Svg.SvgGroup : ID=Picture_20--slide2--35 : url(#clip28)
+    - Svg.SvgGroup : ID= : url(#clip30)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Rounded_Rectangle_31--slide2--36
+  - JavaScript : ID=Rounded_Rectangle_31--slide2--37
+  - Svg.SvgGroup : ID=Picture_22--slide2--38 : url(#clip31)
+    - Svg.SvgGroup : ID= : url(#clip33)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=Picture_26--slide2--39 : url(#clip34)
+    - Svg.SvgGroup : ID= : url(#clip36)
+      - Svg.SvgUse : ID=
+  - Angular : ID=Rectangle_34--slide2--40
+  - Svg.SvgGroup : ID=Picture_32--slide2--41 : 
+    - Svg.SvgGroup : ID= : url(#clip38)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Rounded_Rectangle_43--slide2--42
+  - VS : ID=Rounded_Rectangle_43--slide2--43
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_52--slide2--44
+  - Svg.SvgPath : ID=Rounded_Rectangle_53--slide2--45
+  - Svg.SvgPath : ID=Rounded_Rectangle_56--slide2--46
+  - VS : ID=Rounded_Rectangle_56--slide2--47
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_58--slide2--48
+  - Svg.SvgPath : ID=Rounded_Rectangle_59--slide2--49
+  - Svg.SvgPath : ID=Rounded_Rectangle_61--slide2--50
+  - Upgrades : ID=Rounded_Rectangle_61--slide2--51
+  - Svg.SvgPath : ID=Rounded_Rectangle_63--slide2--52
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_64--slide2--53
+  - Svg.SvgPath : ID=Rounded_Rectangle_67--slide2--54
+  - Rewrite : ID=Rounded_Rectangle_67--slide2--55
+  - Svg.SvgPath : ID=Rounded_Rectangle_68--slide2--56
+  - Scale : ID=Rounded_Rectangle_68--slide2--57
+  - Svg.SvgPath : ID=Rounded_Rectangle_71--slide2--58
+  - Open Source : ID=Rounded_Rectangle_71--slide2--59
+  - Svg.SvgPath : ID=Rounded_Rectangle_72--slide2--60
+  - Community : ID=Rounded_Rectangle_72--slide2--61
+  - Svg.SvgPath : ID=Rounded_Rectangle_73--slide2--62
+  - Best for the Team : ID=Rounded_Rectangle_73--slide2--63
+  - Svg.SvgGroup : ID=Picture_2--slide2--64 : url(#clip39)
+    - Svg.SvgGroup : ID= : url(#clip41)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=Picture_4--slide2--65 : url(#clip42)
+    - Svg.SvgGroup : ID= : url(#clip44)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=Picture_8--slide2--66 : url(#clip45)
+    - Svg.SvgGroup : ID= : url(#clip47)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=Picture_10--slide2--67 : 
+    - Svg.SvgGroup : ID= : url(#clip49)
+      - Svg.SvgUse : ID=
+  - Svg.SvgGroup : ID=Picture_8_DUP2--slide2--68 : 
+    - Svg.SvgGroup : ID= : url(#clip51)
+      - Svg.SvgUse : ID=
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_91--slide2--69
+  - Svg.SvgPath : ID=Straight_Arrow_Connector_94--slide2--70
+  - Svg.SvgGroup : ID=Slide2--slide2--71 : url(#clip52)
+    - Svg.SvgGroup : ID= : url(#clip54)
+      - Svg.SvgUse : ID=

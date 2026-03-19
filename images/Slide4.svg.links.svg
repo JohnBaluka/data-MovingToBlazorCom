@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="447675" height="466725" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="90" height="135" xlink:href="images/Slide4--img2.png" id="img2" />
+    <clipPath id="clip3">
+      <rect x="0" y="99000.6" width="447370" height="466725" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="9.31323E-10" y="-9.31323E-10" width="457200" height="457200" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="150" height="88" xlink:href="images/Slide4--img5.png" id="img5" />
+    <clipPath id="clip6">
+      <path d="M156002 0 L613202 0 L613202 452447 L156002 452447 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="9.31323E-10" y="-9.31323E-10" width="447675" height="447675" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="72" height="72" xlink:href="images/Slide4--img8.png" id="img8" />
+    <clipPath id="clip9">
+      <rect x="-0.5" y="0" width="447675" height="447675" />
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="0" width="533400" height="409575" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="115" height="115" xlink:href="images/Slide4--img11.png" id="img11" />
+    <clipPath id="clip12">
+      <path d="M45634.9 106494 L579035 106494 L579035 514487 L45634.9 514487 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip13">
+      <rect x="0" y="-9.31323E-10" width="1276350" height="419100" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="140" height="63" xlink:href="images/Slide4--img14.png" id="img14" />
+    <clipPath id="clip15">
+      <rect x="0" y="17356.8" width="1241743" height="419100" />
+    </clipPath>
+    <clipPath id="clip16">
+      <rect x="-1.45519E-11" y="0" width="1828800" height="495300" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="357" height="129" xlink:href="images/Slide4--img17.png" id="img17" />
+    <clipPath id="clip18">
+      <path d="M76763.9 108465 L1905564 108465 L1905564 603528 L76763.9 603528 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip19">
+      <rect x="0" y="-9.31323E-10" width="1504950" height="485775" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="247" height="72" xlink:href="images/Slide4--img20.png" id="img20" />
+    <clipPath id="clip21">
+      <path d="M39188.8 3879.4 L1532296 3879.4 L1532296 456938 L39188.8 456938 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip22">
+      <rect x="0" y="0" width="2124075" height="781050" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="300" height="110" xlink:href="images/Slide4--img23.jpg" id="img23" />
+    <clipPath id="clip24">
+      <rect x="0" y="0" width="2124075" height="778828" />
+    </clipPath>
+    <clipPath id="clip25">
+      <rect x="0" y="0" width="609600" height="609600" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="64" height="64" xlink:href="images/Slide4--img26.png" id="img26" />
+    <clipPath id="clip27">
+      <rect x="-1" y="-0.5" width="609600" height="609600" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide4">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide4--0" style="fill:white;" />
+    <rect x="0" y="660" width="1280" height="60" id="BottomRectangle--slide4--1" style="fill:#8064A2;" />
+    <rect x="0" y="0" width="1280" height="67" id="TopRectangle--slide4--2" style="fill:#8064A2;" />
+    <a href="#slide1" id="rect1--slide4--3__LINK">
+      <path d="M5.50005 13.8335 C5.50005 8.12651 10.1265 3.50005 15.8335 3.50005 L202.167 3.50005 C207.874 3.50005 212.5 8.12651 212.5 13.8335 L212.5 55.1666 C212.5 60.8736 207.874 65.5001 202.167 65.5001 L15.8335 65.5001 C10.1265 65.5001 5.50005 60.8736 5.50005 55.1666 Z" id="rect1--slide4--3" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+    </a>
+    <a href="#slide2" id="rect2--slide4--4__LINK">
+      <path d="M218.5 13.8336 C218.5 8.12656 223.127 3.50005 228.834 3.50005 L414.166 3.50005 C419.874 3.50005 424.5 8.12656 424.5 13.8336 L424.5 55.1665 C424.5 60.8735 419.874 65.5 414.166 65.5 L228.834 65.5 C223.127 65.5 218.5 60.8735 218.5 55.1665 Z" id="rect2--slide4--4" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(240.953, 48)" id="rect2--slide4--5" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Compare</text>
+    </a>
+    <a href="#slide3" id="rect3--slide4--6__LINK">
+      <path d="M431.5 13.8336 C431.5 8.12656 436.127 3.50005 441.834 3.50005 L627.167 3.50005 C632.874 3.50005 637.5 8.12656 637.5 13.8336 L637.5 55.1665 C637.5 60.8735 632.874 65.5 627.167 65.5 L441.834 65.5 C436.127 65.5 431.5 60.8735 431.5 55.1665 Z" id="rect3--slide4--6" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(450.382, 48)" id="rect3--slide4--7" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Full Stack</text>
+    </a>
+    <a href="#slide4" id="rect4--slide4--8__LINK">
+      <path d="M644.5 13.8336 C644.5 8.12656 649.127 3.50005 654.834 3.50005 L840.167 3.50005 C845.874 3.50005 850.5 8.12656 850.5 13.8336 L850.5 55.1665 C850.5 60.8735 845.874 65.5 840.167 65.5 L654.834 65.5 C649.127 65.5 644.5 60.8735 644.5 55.1665 Z" id="rect4--slide4--8" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(673.444, 48)" id="rect4--slide4--9" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Mindset</text>
+    </a>
+    <a href="#slide5" id="rect5--slide4--10__LINK">
+      <path d="M856.5 13.8335 C856.5 8.12651 861.127 3.50005 866.834 3.50005 L1053.17 3.50005 C1058.87 3.50005 1063.5 8.12651 1063.5 13.8335 L1063.5 55.1666 C1063.5 60.8736 1058.87 65.5001 1053.17 65.5001 L866.834 65.5001 C861.127 65.5001 856.5 60.8736 856.5 55.1666 Z" id="rect5--slide4--10" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(876.007, 48)" id="rect5--slide4--11" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Decisions</text>
+    </a>
+    <a href="#slide6" id="rect6--slide4--12__LINK">
+      <path d="M1069.5 13.8336 C1069.5 8.12656 1074.13 3.50005 1079.83 3.50005 L1265.17 3.50005 C1270.87 3.50005 1275.5 8.12656 1275.5 13.8336 L1275.5 55.1665 C1275.5 60.8735 1270.87 65.5 1265.17 65.5 L1079.83 65.5 C1074.13 65.5 1069.5 60.8735 1069.5 55.1665 Z" id="rect6--slide4--12" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:white;stroke:#4F81BD;" />
+      <text transform="translate(1102.47, 48)" id="rect6--slide4--13" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:#8064A2;">Options</text>
+    </a>
+    <a href="https://www.linkedin.com/in/johnbaluka/" id="imgLinkedIn--slide4--14__LINK" target="_blank">
+      <title>Connect on LinkedIn</title>
+      <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 587, 665)" id="imgLinkedIn--slide4--14">
+        <g clip-path="url(#clip3)" transform="matrix(1.00068, 0, 0, 1, 0, -99000.9)">
+          <use xlink:href="#img2" width="100%" height="100%" transform="scale(4970.77)" />
+        </g>
+      </g>
+    </a>
+    <a href="https://github.com/JohnBaluka" id="imgGitHub--slide4--15__LINK" target="_blank">
+      <title>See my GitHub Repos</title>
+      <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 648, 666)" id="imgGitHub--slide4--15">
+        <g clip-path="url(#clip6)" transform="matrix(1, 0, 0, 1.01051, -156002, 0)">
+          <use xlink:href="#img5" width="100%" height="100%" transform="scale(5141.44)" />
+        </g>
+      </g>
+    </a>
+    <a href="https://sessionize.com/john-baluka" id="imgSessionize--slide4--16__LINK" target="_blank">
+      <title>See my upcoming Talks and Workshops</title>
+      <g clip-path="url(#clip7)" transform="matrix(0.000104987, 0, 0, 0.000104987, 708, 666)" id="imgSessionize--slide4--16">
+        <g clip-path="url(#clip9)">
+          <use xlink:href="#img8" width="100%" height="100%" transform="matrix(6217.71, 0, 0, 6217.71, -0.5, 0)" />
+        </g>
+      </g>
+    </a>
+    <a href="https://www.youtube.com/@JohnBaluka" id="imgYouTube--slide4--17__LINK" target="_blank">
+      <title>Goto My YouTube Channel</title>
+      <g clip-path="url(#clip10)" transform="matrix(0.000104987, 0, 0, 0.000104987, 520, 669)" id="imgYouTube--slide4--17">
+        <g clip-path="url(#clip12)" transform="matrix(1, 0, 0, 1.00388, -45635.5, -106907)">
+          <use xlink:href="#img11" width="100%" height="100%" transform="scale(5427.79)" />
+        </g>
+      </g>
+    </a>
+    <a href="https://multimodalslides.com/" id="imgMultimodalSlides--slide4--18__LINK" target="_blank">
+      <title>Goto MultimodalSlides.com</title>
+      <g clip-path="url(#clip13)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1132, 666)" id="imgMultimodalSlides--slide4--18">
+        <g clip-path="url(#clip15)" transform="matrix(1.02787, 0, 0, 1, -1, -17356.5)">
+          <use xlink:href="#img14" width="100%" height="100%" transform="scale(9279.37)" />
+        </g>
+      </g>
+    </a>
+    <text transform="translate(1012.7, 695)" id="rectMultimodalSlides--slide4--19" font-family="Carlito,sans-serif" font-size="21" font-weight="700" style="fill:white;">Created with</text>
+    <a href="mailto:John@JohnBaluka.com?subject=[Please%20Provide%20Subject]&body=Please answer the questions below to help reduce spam...%0D%0A%0D%0ADo you want to be added to my mailing list? (Yes, No)%0D%0A%0D%0AHow did you hear about me?  (My Site, YouTube, LinkedIn, GitHub, Sessionize, Search, Word-of-Mouth)%0D%0A%0D%0AHow can I help?%0D%0A" id="rectEmail--slide4--20__LINK">
+      <title>Email Me</title>
+      <text transform="translate(14.7744, 698)" id="rectEmail--slide4--20" font-family="Carlito,sans-serif" font-size="24" font-weight="400" style="fill:white;">John@JohnBaluka.com</text>
+    </a>
+    <path d="M14.7744 701.333 L71.0244 701.333 L127.274 701.333 L183.524 701.333 L239.774 701.333 L239.774 703.333 L183.524 703.333 L127.274 703.333 L71.0244 703.333 L14.7744 703.333 Z" id="rectEmail--slide4--21" fill-rule="evenodd" style="fill:white;" />
+    <a href="#slide1" id="Picture_14--slide4--22__LINK">
+      <g clip-path="url(#clip16)" transform="matrix(0.000104987, 0, 0, 0.000104987, 12, 7)" id="Picture_14--slide4--22">
+        <g clip-path="url(#clip18)" transform="matrix(1, 0, 0, 1.00048, -76763.9, -108517)">
+          <use xlink:href="#img17" width="100%" height="100%" transform="scale(5541.88)" />
+        </g>
+      </g>
+    </a>
+    <a href="https://johnbaluka.com/" id="imgJohnBaluka--slide4--23__LINK" target="_blank">
+      <title>Goto JohnBaluka.com</title>
+      <g clip-path="url(#clip19)" transform="matrix(0.000104987, 0, 0, 0.000104987, 316, 666)" id="imgJohnBaluka--slide4--23">
+        <g clip-path="url(#clip21)" transform="matrix(1.00793, 0, 0, 1, -39499.6, -3879.41)">
+          <use xlink:href="#img20" width="100%" height="100%" transform="scale(6346.36)" />
+        </g>
+      </g>
+    </a>
+    <path d="M915 282 C891.804 282 873 278.866 873 275 L873 190.133 C873 186.267 854.196 183.134 831 183.134 C854.196 183.134 873 180 873 176.134 L873 91.9997 C873 88.1339 891.804 85 915 85" id="Left_Brace_41--slide4--24" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" class="fragment-off" data-fragment-index="7" style="fill:none;stroke:#4F81BD;" />
+    <path d="M822 504 C822 520.016 819.836 533 817.167 533 L644.658 533 C641.989 533 639.825 545.984 639.825 562 C639.825 545.984 637.661 533 634.991 533 L463.833 533 C461.164 533 459 520.016 459 504" id="Left_Brace_37--slide4--25" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" class="fragment-off" data-fragment-index="6" style="fill:none;stroke:#4F81BD;" />
+    <text transform="translate(9.6, -22)" id="TitlePlaceholder--slide4--26" font-family="Carlito,sans-serif" font-size="39" font-weight="300">Mindset</text>
+    <text transform="translate(1198.97, -17)" id="SectionNameTextPlaceholder--slide4--27" font-family="Carlito,sans-serif" font-size="21" font-weight="400">Mindset</text>
+    <path d="M644 13.3336 C644 7.62651 648.626 3 654.334 3 L839.666 3 C845.373 3 850 7.62651 850 13.3336 L850 54.6664 C850 60.3735 845.373 65 839.666 65 L654.334 65 C648.626 65 644 60.3735 644 54.6664 Z" id="rectHighlight--slide4--28" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" style="fill:none;stroke:#FFC000;" />
+    <g id="Content_Placeholder_14--slide4--29" class="fragment-off" data-fragment-index="1">
+      <g>
+        <g>
+          <path d="M199.198 537.614 L154.232 492.688 L199.198 447.761 L210.302 458.864 L176.518 492.688 L210.302 526.511 L199.198 537.614 Z" style="fill:#35495E;" />
+          <path d="M304.802 537.614 L293.698 526.511 L327.482 492.688 L293.698 458.864 L304.802 447.761 L349.768 492.688 L304.802 537.614 Z" style="fill:#35495E;" />
+          <path d="M225.624 537.267 L263.295 446.366 L277.845 452.396 L240.174 543.297 Z" style="fill:#35495E;" />
+          <path d="M94.5 350.938 L94.5 595.062 L409.5 595.062 L409.5 350.938 Z M366.188 374.562 C370.537 374.562 374.062 378.088 374.062 382.438 C374.062 386.787 370.537 390.312 366.188 390.312 C361.838 390.312 358.312 386.787 358.312 382.438 C358.312 378.088 361.838 374.562 366.188 374.562 Z M338.625 374.562 C342.974 374.562 346.5 378.088 346.5 382.438 C346.5 386.787 342.974 390.312 338.625 390.312 C334.276 390.312 330.75 386.787 330.75 382.438 C330.75 378.088 334.276 374.562 338.625 374.562 Z M311.062 374.562 C315.412 374.562 318.938 378.088 318.938 382.438 C318.938 386.787 315.412 390.312 311.062 390.312 C306.713 390.312 303.188 386.787 303.188 382.438 C303.188 378.088 306.713 374.562 311.062 374.562 Z M385.875 571.438 L118.125 571.438 L118.125 413.938 L385.875 413.938 Z" style="fill:#35495E;" />
+        </g>
+      </g>
+    </g>
+    <g clip-path="url(#clip22)" transform="matrix(0.000104987, 0, 0, 0.000104987, 455, 142)" id="__Blazor--slide4--30">
+      <g clip-path="url(#clip24)" transform="matrix(1, 0, 0, 1.00285, -0.5, 0)">
+        <use xlink:href="#img23" width="100%" height="100%" transform="scale(7080.25)" />
+      </g>
+    </g>
+    <path d="M450 149.167 C450 139.686 457.686 132 467.167 132 L812.833 132 C822.314 132 830 139.686 830 149.167 L830 217.833 C830 227.314 822.314 235 812.833 235 L467.167 235 C457.686 235 450 227.314 450 217.833 Z" id="__rectBlazor--slide4--31" fill-rule="evenodd" stroke-width="6" stroke-miterlimit="8" style="fill:none;stroke:#5B2D90;" />
+    <path d="M690.5 160.167 C690.5 153.723 695.724 148.5 702.167 148.5 L773.833 148.5 C780.277 148.5 785.5 153.723 785.5 160.167 L785.5 206.833 C785.5 213.277 780.277 218.5 773.833 218.5 L702.167 218.5 C695.724 218.5 690.5 213.277 690.5 206.833 Z" id="rectCSharp--slide4--32" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#1C334E;" />
+    <text transform="translate(711.863, 196)" id="rectCSharp--slide4--33" font-family="Carlito,sans-serif" font-size="49" font-weight="400" style="fill:white;">C#</text>
+    <path d="M137 458 C137 448.059 145.059 440 155 440 L348 440 C357.941 440 366 448.059 366 458 L366 530 C366 539.941 357.941 548 348 548 L155 548 C145.059 548 137 539.941 137 530 Z" id="Rounded_Rectangle_10--slide4--34" fill-rule="evenodd" stroke-width="8" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#35495E;stroke:black;" />
+    <text transform="translate(171.459, 484)" id="Rounded_Rectangle_10--slide4--35" font-family="Carlito,sans-serif" font-size="40" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">JavaScript</text>
+    <text transform="translate(196.832, 527)" id="Rounded_Rectangle_10--slide4--36" font-family="Carlito,sans-serif" font-size="40" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">(DOM)</text>
+    <g id="Graphic_16--slide4--37" class="fragment-off" data-fragment-index="2">
+      <g>
+        <g>
+          <path d="M244.625 57.9375 C244.625 72.1588 204.275 83.6875 154.5 83.6875 C104.725 83.6875 64.375 72.1588 64.375 57.9375 C64.375 43.7162 104.725 32.1875 154.5 32.1875 C204.275 32.1875 244.625 43.7162 244.625 57.9375 Z" transform="matrix(1.60841, 0, 0, 1, 774, 327)" style="fill:#632523;" />
+          <path d="M218.875 122.312 C215.013 122.312 212.438 119.738 212.438 115.875 C212.438 112.012 215.013 109.438 218.875 109.438 C222.737 109.438 225.312 112.012 225.312 115.875 C225.312 119.738 222.737 122.312 218.875 122.312 Z M154.5 96.5625 C104.931 96.5625 64.375 84.975 64.375 70.8125 L64.375 122.312 C64.375 136.475 104.931 148.062 154.5 148.062 C204.069 148.062 244.625 136.475 244.625 122.312 L244.625 70.8125 C244.625 84.975 204.069 96.5625 154.5 96.5625 Z" transform="matrix(1.60841, 0, 0, 1, 774, 327)" style="fill:#632523;" />
+          <path d="M218.875 186.688 C215.013 186.688 212.438 184.113 212.438 180.25 C212.438 176.387 215.013 173.812 218.875 173.812 C222.737 173.812 225.312 176.387 225.312 180.25 C225.312 184.113 222.737 186.688 218.875 186.688 Z M154.5 160.938 C104.931 160.938 64.375 149.35 64.375 135.188 L64.375 186.688 C64.375 200.85 104.931 212.438 154.5 212.438 C204.069 212.438 244.625 200.85 244.625 186.688 L244.625 135.188 C244.625 149.35 204.069 160.938 154.5 160.938 Z" transform="matrix(1.60841, 0, 0, 1, 774, 327)" style="fill:#632523;" />
+          <path d="M218.875 251.062 C215.013 251.062 212.438 248.487 212.438 244.625 C212.438 240.763 215.013 238.188 218.875 238.188 C222.737 238.188 225.312 240.763 225.312 244.625 C225.312 248.487 222.737 251.062 218.875 251.062 Z M154.5 225.312 C104.931 225.312 64.375 213.725 64.375 199.562 L64.375 251.062 C64.375 265.225 104.931 276.812 154.5 276.812 C204.069 276.812 244.625 265.225 244.625 251.062 L244.625 199.562 C244.625 213.725 204.069 225.312 154.5 225.312 Z" transform="matrix(1.60841, 0, 0, 1, 774, 327)" style="fill:#632523;" />
+        </g>
+      </g>
+    </g>
+    <path d="M96.5001 309 C96.5001 304.858 99.858 301.5 104 301.5 L403 301.5 C407.142 301.5 410.5 304.858 410.5 309 L410.5 339 C410.5 343.142 407.142 346.5 403 346.5 L104 346.5 C99.858 346.5 96.5001 343.142 96.5001 339 Z" id="Rounded_Rectangle_17--slide4--38" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#35495E;stroke:#1C334E;" />
+    <text transform="translate(172.985, 330)" id="Rounded_Rectangle_17--slide4--39" font-family="Carlito,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Web Browser</text>
+    <path d="M866.5 309 C866.5 304.858 869.858 301.5 874 301.5 L1172 301.5 C1176.14 301.5 1179.5 304.858 1179.5 309 L1179.5 339 C1179.5 343.142 1176.14 346.5 1172 346.5 L874 346.5 C869.858 346.5 866.5 343.142 866.5 339 Z" id="Rounded_Rectangle_18--slide4--40" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#632523;stroke:#1C334E;" />
+    <text transform="translate(925.564, 330)" id="Rounded_Rectangle_18--slide4--41" font-family="Carlito,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Database Server</text>
+    <path d="M908 458 C908 448.059 916.059 440 926 440 L1119 440 C1128.94 440 1137 448.059 1137 458 L1137 530 C1137 539.941 1128.94 548 1119 548 L926 548 C916.059 548 908 539.941 908 530 Z" id="Rounded_Rectangle_12--slide4--42" fill-rule="evenodd" stroke-width="8" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#632523;stroke:black;" />
+    <text transform="translate(991.559, 485)" id="Rounded_Rectangle_12--slide4--43" font-family="Carlito,sans-serif" font-size="40" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">SQL</text>
+    <text transform="translate(923.266, 523)" id="Rounded_Rectangle_12--slide4--44" font-family="Carlito,sans-serif" font-size="40" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">(Tables, SPs)</text>
+    <path d="M466.5 480 C466.5 475.858 469.858 472.5 474 472.5 L615 472.5 C619.142 472.5 622.5 475.858 622.5 480 L622.5 510 C622.5 514.142 619.142 517.5 615 517.5 L474 517.5 C469.858 517.5 466.5 514.142 466.5 510 Z" id="Rounded_Rectangle_21--slide4--45" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="5" style="fill:#35495E;stroke:#1C334E;" />
+    <text transform="translate(485.654, 501)" id="Rounded_Rectangle_21--slide4--46" font-family="Carlito,sans-serif" font-size="29" font-weight="400" class="fragment-off" data-fragment-index="5" style="fill:white;">JS Interop</text>
+    <path d="M548 235 L548 452.499 L540 452.499 L540 235 Z M556 448.499 L544 472.499 L532 448.499 Z" id="Straight_Arrow_Connector_22--slide4--47" class="fragment-off" data-fragment-index="5" style="fill:#5B2D90;" />
+    <path d="M659.5 480 C659.5 475.858 662.858 472.5 667 472.5 L808 472.5 C812.142 472.5 815.5 475.858 815.5 480 L815.5 510 C815.5 514.142 812.142 517.5 808 517.5 L667 517.5 C662.858 517.5 659.5 514.142 659.5 510 Z" id="Rounded_Rectangle_25--slide4--48" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#35495E;stroke:#1C334E;" />
+    <text transform="translate(677.196, 499)" id="Rounded_Rectangle_25--slide4--49" font-family="Carlito,sans-serif" font-size="20" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">SQL Command</text>
+    <path d="M740 234.988 L740.675 452.487 L732.675 452.512 L732 235.012 Z M748.663 448.462 L736.737 472.499 L724.663 448.537 Z" id="Straight_Arrow_Connector_26--slide4--50" class="fragment-off" data-fragment-index="3" style="fill:#5B2D90;" />
+    <path d="M4.2155E-06 -4 L79.6199 -3.99992 L79.6199 4.00008 L-4.2155E-06 4 Z M75.62 -11.9999 L99.6199 0.000104987 L75.6199 12.0001 Z" transform="matrix(-1, 0, 0, 1, 465.62, 494)" id="Straight_Arrow_Connector_30--slide4--51" class="fragment-off" data-fragment-index="5" style="fill:#C0504D;" />
+    <path d="M815 490 L888.1 490 L888.1 498 L815 498 Z M884.1 482 L908.1 494 L884.1 506 Z" id="Straight_Arrow_Connector_33--slide4--52" class="fragment-off" data-fragment-index="3" style="fill:#C0504D;" />
+    <rect x="896.5" y="102.5" width="266" height="51" id="Rectangle_36--slide4--53" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="7" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(907.62, 136)" id="Rectangle_36--slide4--54" font-family="Carlito,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">Optimize Performance</text>
+    <rect x="896.5" y="159.5" width="266" height="50" id="Rectangle_38--slide4--55" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="7" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(951.879, 193)" id="Rectangle_38--slide4--56" font-family="Carlito,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">Business Logic</text>
+    <rect x="896.5" y="216.5" width="266" height="49" id="Rectangle_39--slide4--57" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="7" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(917.049, 249)" id="Rectangle_39--slide4--58" font-family="Carlito,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="7" style="fill:white;">Deployment Options</text>
+    <rect x="457.5" y="561.5" width="363" height="62" id="Rectangle_40--slide4--59" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="6" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(548.955, 604)" id="Rectangle_40--slide4--60" font-family="Carlito,sans-serif" font-size="37" font-weight="400" class="fragment-off" data-fragment-index="6" style="fill:white;">Data Access</text>
+    <g id="Graphic_43--slide4--61" class="fragment-off" data-fragment-index="1">
+      <g>
+        <g>
+          <path d="M253 129.642 C213.888 52.0375 147.458 98.6 147.458 142.058 C147.458 207.246 253 287.954 253 287.954 C253 287.954 358.542 207.246 358.542 142.058 C358.542 98.6 292.112 52.0375 253 129.642 Z" style="fill:#C00000;" />
+        </g>
+      </g>
+    </g>
+    <text transform="translate(185.692, 178)" id="Rectangle_44--slide4--62" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:white;">HTML +</text>
+    <text transform="translate(221.439, 229)" id="Rectangle_44--slide4--63" font-family="Carlito,sans-serif" font-size="43" font-weight="700" style="fill:white;">CSS</text>
+    <g clip-path="url(#clip25)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1200, 640)" id="Slide4--slide4--64" style="display:none;">
+      <g clip-path="url(#clip27)">
+        <use xlink:href="#img26" width="100%" height="100%" transform="matrix(9525, 0, 0, 9525, -1, -0.5)" />
+      </g>
+    </g>
+  </g>
+</svg>
